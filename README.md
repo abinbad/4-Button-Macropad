@@ -4,10 +4,10 @@
 I used Onshape instead of Fusion, whoopsies (๑>؂•̀๑)\
 ![4-Button Macropad Case & PCB in CAD Software](http://url/to/img.png)
 # PCB:
-Everything PCB was done in KiCad! It was somewhat frustrating at first but ended up being really fun.\\
+Everything PCB was done in KiCad! It was somewhat frustrating at first but ended up being really fun.\
 Here's my schematic:\
-![4-Button Macropad RP2040CB schematic](http://url/to/img.png)\\
-I wanted to change my macropad in someway compared to the tutorial so I just added more LEDs lol\\
+![4-Button Macropad RP2040CB schematic](http://url/to/img.png)\
+I wanted to change my macropad in someway compared to the tutorial so I just added more LEDs lol\
 Here's my PCB:\
 ![4-Button Macropad PCB](http://url/to/img.png)
 # Firmware:
